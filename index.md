@@ -1,5 +1,12 @@
 # First title
 
+# To do
+
+- [x] Read binary analysis book
+- [x] Learn git branch
+- [x] Rustlings
+- [ ] Sleep
+
 # Code
 
 ```rust
